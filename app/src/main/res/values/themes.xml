@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HelloEcho" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.HelloEcho" parent="Base.Theme.HelloEcho" />
+
+    <style name="RoundFloatingActionButton">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">32dp</item>
+    </style>
+
+</resources>
