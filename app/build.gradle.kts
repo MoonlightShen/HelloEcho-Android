@@ -60,7 +60,7 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.3.1")
     implementation("androidx.viewpager2:viewpager2:1.0.0")
 
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20")
 
     //数据库框架 GreenDAO
     implementation("org.greenrobot:greendao:3.3.0")
@@ -77,7 +77,7 @@ dependencies {
     implementation("com.github.bumptech.glide:glide:4.16.0")
 
     //权限请求框架
-    implementation("com.github.getActivity:XXPermissions:18.62")
+    implementation("com.github.getActivity:XXPermissions:20.0")
 
     //编码检测
     implementation("com.github.albfernandez:juniversalchardet:2.4.0")
@@ -111,7 +111,7 @@ dependencies {
     implementation("com.afollestad.material-dialogs:bottomsheets:3.3.0")
 
     //图表
-
+    implementation("com.github.AnyChart:AnyChart-Android:1.1.5")
 
 }
 
